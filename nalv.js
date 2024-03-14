@@ -174,4 +174,4 @@ if (content === 'n help') {
 });
 
 // Login to Discord
-client.login('MTIxNzcxOTQ1NDE4ODY5OTY3OA.GvUr66.gBAHBSmsR3hFWdDmmbZZxYZCWKq8DVPG_KgDbo');
+client.login(process.env.token);
